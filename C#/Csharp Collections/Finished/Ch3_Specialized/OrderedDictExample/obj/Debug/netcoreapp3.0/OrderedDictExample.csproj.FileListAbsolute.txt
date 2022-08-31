@@ -1,0 +1,11 @@
+C:\Users\Joe\Desktop\ExerciseFiles\Finished\Ch3_Specialized\OrderedDictExample\bin\Debug\netcoreapp3.0\OrderedDictExample.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Finished\Ch3_Specialized\OrderedDictExample\bin\Debug\netcoreapp3.0\OrderedDictExample.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Finished\Ch3_Specialized\OrderedDictExample\bin\Debug\netcoreapp3.0\OrderedDictExample.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Finished\Ch3_Specialized\OrderedDictExample\bin\Debug\netcoreapp3.0\OrderedDictExample.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Finished\Ch3_Specialized\OrderedDictExample\bin\Debug\netcoreapp3.0\OrderedDictExample.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Finished\Ch3_Specialized\OrderedDictExample\bin\Debug\netcoreapp3.0\OrderedDictExample.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Finished\Ch3_Specialized\OrderedDictExample\obj\Debug\netcoreapp3.0\OrderedDictExample.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Finished\Ch3_Specialized\OrderedDictExample\obj\Debug\netcoreapp3.0\OrderedDictExample.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Finished\Ch3_Specialized\OrderedDictExample\obj\Debug\netcoreapp3.0\OrderedDictExample.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Finished\Ch3_Specialized\OrderedDictExample\obj\Debug\netcoreapp3.0\OrderedDictExample.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Finished\Ch3_Specialized\OrderedDictExample\obj\Debug\netcoreapp3.0\OrderedDictExample.pdb

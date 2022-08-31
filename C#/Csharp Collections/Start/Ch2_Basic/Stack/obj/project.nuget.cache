@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xz9eaaVGb7tCBUUD5NMQ98SxmHq5uVFiIN4oc6b6sJV4zbmErjHvo/2ScXWD5kpjeRTaL+iLV4HTXja9/wbQxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\Programming_Stuff\\Linkedin Learning\\C#\\Csharp Collections\\Start\\Ch2_Basic\\Stack\\Stack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

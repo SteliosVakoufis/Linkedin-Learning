@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\obj\Debug\netcoreapp3.0\Challenge.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\obj\Debug\netcoreapp3.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\obj\Debug\netcoreapp3.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\obj\Debug\netcoreapp3.0\Challenge.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\obj\Debug\netcoreapp3.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\bin\Debug\netcoreapp3.0\Challenge.exe
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\bin\Debug\netcoreapp3.0\Challenge.deps.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\bin\Debug\netcoreapp3.0\Challenge.runtimeconfig.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\bin\Debug\netcoreapp3.0\Challenge.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\bin\Debug\netcoreapp3.0\Challenge.dll
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\bin\Debug\netcoreapp3.0\Challenge.pdb
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\obj\Debug\netcoreapp3.0\Challenge.dll
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\obj\Debug\netcoreapp3.0\Challenge.pdb
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Challenge\obj\Debug\netcoreapp3.0\Challenge.genruntimeconfig.cache

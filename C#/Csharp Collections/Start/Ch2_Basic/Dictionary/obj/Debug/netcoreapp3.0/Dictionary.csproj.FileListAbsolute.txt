@@ -1,0 +1,36 @@
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.exe
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.deps.json
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.runtimeconfig.json
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.runtimeconfig.dev.json
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.dll
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.pdb
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.csprojAssemblyReference.cache
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.AssemblyInfo.cs
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.dll
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.pdb
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.exe
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.deps.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.runtimeconfig.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.dll
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\bin\Debug\netcoreapp3.0\Dictionary.pdb
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.dll
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.pdb
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Dictionary\obj\Debug\netcoreapp3.0\Dictionary.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Stelios\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Stelios\\.nuget\\packages"
+    ]
+  }
+}

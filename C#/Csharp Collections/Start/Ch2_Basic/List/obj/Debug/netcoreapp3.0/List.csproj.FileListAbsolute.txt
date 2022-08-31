@@ -1,0 +1,35 @@
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.exe
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.deps.json
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.runtimeconfig.json
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.runtimeconfig.dev.json
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.dll
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.pdb
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.AssemblyInfoInputs.cache
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.AssemblyInfo.cs
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.dll
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.pdb
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.dll
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.pdb
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.exe
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.deps.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.runtimeconfig.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.dll
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\bin\Debug\netcoreapp3.0\List.pdb
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\List\obj\Debug\netcoreapp3.0\List.genruntimeconfig.cache

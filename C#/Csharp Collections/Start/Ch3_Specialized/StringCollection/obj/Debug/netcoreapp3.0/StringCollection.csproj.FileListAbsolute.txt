@@ -1,0 +1,11 @@
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch3_Specialized\StringCollection\bin\Debug\netcoreapp3.0\StringCollection.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch3_Specialized\StringCollection\bin\Debug\netcoreapp3.0\StringCollection.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch3_Specialized\StringCollection\bin\Debug\netcoreapp3.0\StringCollection.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch3_Specialized\StringCollection\bin\Debug\netcoreapp3.0\StringCollection.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch3_Specialized\StringCollection\bin\Debug\netcoreapp3.0\StringCollection.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch3_Specialized\StringCollection\bin\Debug\netcoreapp3.0\StringCollection.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch3_Specialized\StringCollection\obj\Debug\netcoreapp3.0\StringCollection.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch3_Specialized\StringCollection\obj\Debug\netcoreapp3.0\StringCollection.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch3_Specialized\StringCollection\obj\Debug\netcoreapp3.0\StringCollection.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch3_Specialized\StringCollection\obj\Debug\netcoreapp3.0\StringCollection.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch3_Specialized\StringCollection\obj\Debug\netcoreapp3.0\StringCollection.pdb

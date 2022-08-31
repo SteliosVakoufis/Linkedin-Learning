@@ -1,0 +1,11 @@
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.exe
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.deps.json
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.json
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.dev.json
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.dll
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.pdb
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.csprojAssemblyReference.cache
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfo.cs
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.dll
+C:\Users\Joe\Documents\Git\Lynda\CSCollections\Ch2_Basic\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.pdb

@@ -1,0 +1,25 @@
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.pdb
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.exe
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.deps.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.runtimeconfig.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.dll
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\bin\Debug\netcoreapp3.0\Queue.pdb
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.dll
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.pdb
+C:\Users\Administrator\Documents\Programming_Stuff\Linkedin Learning\C#\Csharp Collections\Start\Ch2_Basic\Queue\obj\Debug\netcoreapp3.0\Queue.genruntimeconfig.cache

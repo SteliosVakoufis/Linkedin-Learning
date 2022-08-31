@@ -1,0 +1,16 @@
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\refint\HelloWorld.dll
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
+Z:\Programming_Stuff\Linkedin Learning\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
