@@ -18,4 +18,24 @@ public class BinarySearchTree {
 
         return root;
     }
+
+    public boolean retrieve(int value) {
+        return retrieve(this.root, value) == -1 ? false : true;
+    }
+
+    private int retrieve(Node root, int value) {
+        if (root != null) {
+            if (root.data == value) {
+                return root.data;
+            }
+            if (root.data > value) {
+                return retrieve(root.left, value);
+            }
+            if (root.data < value) {
+                return retrieve(root.right, value);
+            }
+        }
+
+        return -1;
+    }
 }

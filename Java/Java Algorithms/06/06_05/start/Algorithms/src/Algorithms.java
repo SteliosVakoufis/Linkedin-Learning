@@ -10,5 +10,8 @@ public class Algorithms {
         tree.insert(1);
         tree.insert(3);
         tree.insert(4);
+
+        System.out.println(tree.retrieve(3));
+
     }
 }

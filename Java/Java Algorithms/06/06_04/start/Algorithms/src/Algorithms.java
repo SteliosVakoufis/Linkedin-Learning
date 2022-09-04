@@ -28,5 +28,14 @@ public class Algorithms {
         BinaryTree tree = new BinaryTree();
         tree.root = rootNode;
 
+        tree.preOrderTraversal();
+        System.out.println();
+
+        tree.inOrderTraversal();
+        System.out.println();
+
+        tree.postOrderTraversal();
+        System.out.println();
+
     }
 }

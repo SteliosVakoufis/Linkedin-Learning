@@ -1,7 +1,10 @@
 public class Algorithms {
 
-    public static boolean linearSearch(int[] arr, int item) {
-        return false;
+    public static Integer linearSearch(int[] arr, int item) {
+        for (int val : arr) {
+            if (val == item) return item;
+        }
+        return null;
     }
 
     public static void main(String[] args) {

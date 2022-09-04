@@ -1,7 +1,16 @@
 public class Algorithms {
 
     public static String reverseEachWord(String s) {
-        return s;
+        if (s == null || s == "") return s;
+        StringBuilder result = new StringBuilder();
+        String[] WordsArray = s.split("\\s+");
+
+        for (int i = 0; i < WordsArray.length; i++) {
+            result.append(reverse(WordsArray[i]));
+            if (i != WordsArray.length - 1) result.append(" "); 
+        }
+
+        return result.toString().trim();
     }
 
     public static String reverse(String s) {
