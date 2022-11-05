@@ -1,0 +1,33 @@
+﻿@page
+@model SevStudentsApp.Pages.Students.CreateModel
+@{
+}
+
+<h2>New Student</h2>
+@if(!Model.errorMessage.Equals("")){
+    <h2><strong>@Model.errorMessage</strong></h2>
+}
+<form method="post">
+    <div class="row mb-3">
+        <label class="col-md-1 col-form-label" for="firstname">First Name</label>
+        <div>
+            <input class="form-control" type="text" name="firstname" id="firstname" value="@Model.studentDTO.Firstname"
+            placeholder="Enter your first name"/>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-md-1 col-form-label" for="lastname">Last Name</label>
+        <div>
+            <input class="form-control" type="text" name="lastname" id="lastname" value="@Model.studentDTO.Lastname"
+            placeholder="Enter your last name"/>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <div class="offset-md-1 col-md-3 d-grid">
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </div>
+        <div class="offset-md-1 col-md-3 d-grid">
+            <a class="btn btn-danger" href="/Students/Index" role="button">Cancel</a>
+        </div>
+    </div>
+</form>
